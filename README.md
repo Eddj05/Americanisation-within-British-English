@@ -46,8 +46,7 @@ ONE 13(5), 1–15.
 - Leotescu, D. and G. Leotescu (2021). Driven by
 a mutual language? british versus american en-
 glish. PCTS Proceedings (Professional Com-
-munication amp; Translation Studies) 14, 131 –
-138.
+munication amp; Translation Studies) 14, 131 – 138.
 - Tomovi ́c, N. (2022). The place of american en-
 glish in european education. Komunikacija i
 kultura ¡em¿online¡/em¿ 13(13), 195–205
