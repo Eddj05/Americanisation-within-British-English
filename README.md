@@ -32,3 +32,6 @@ was growing the most. This could be very
 valuable to take into consideration of what
 English variant we should teach our chil-
 dren
+
+**Research question**
+Is there a relation between the growth of 'American English' and the frequency of the use of Americanised words in 'British English'?
