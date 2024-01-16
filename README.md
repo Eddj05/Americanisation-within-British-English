@@ -1,5 +1,6 @@
 # Americanisation-within-British-English
 **Abstract:**
+
 English is the most spoken language all
 over the world. However, English hasn’t
 always been the same. The arrival of
@@ -34,4 +35,5 @@ English variant we should teach our chil-
 dren
 
 **Research question**
+
 Is there a relation between the growth of 'American English' and the frequency of the use of Americanised words in 'British English'?
