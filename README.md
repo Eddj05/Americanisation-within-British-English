@@ -4,7 +4,7 @@
 English is the most spoken language all
 over the world. However, English hasn’t
 always been the same. The arrival of
-American English had been an important
+American English has been an important
 factor on the change of the English lan-
 guage. Ever since America became the
 central country, a lot of countries have
