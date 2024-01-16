@@ -41,6 +41,7 @@ Is there a relation between the growth of American English and the frequency of 
 **Variables**
 
 independent: the growth of American English.
+
 dependent: the frequency of the use of Americanised words in British English
 
 
