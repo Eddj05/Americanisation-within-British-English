@@ -64,5 +64,5 @@ The more American English becomes important, the higher the frequency of America
 
 **Method**
 
-we solve this question using Google N-Grams. we compare American English words with their British English counterparts. This comparison shows is the trends of the use of Americanisms in British English. In other words, it shows us the frequency of American English words in written British English texts.
+We solve this question using Google N-Grams. we compare American English words with their British English counterparts. This comparison shows is the trends of the use of Americanisms in British English. In other words, it shows us the frequency of American English words in written British English texts.
 
