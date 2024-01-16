@@ -62,3 +62,7 @@ kultura ¡em¿online¡/em¿ 13(13), 195–205
 
 The more American English becomes important, the higher the frequency of Americanisms in British English written text.
 
+**Method**
+
+we solve this question using Google N-Grams. we compare American English words with their British English counterparts. This comparison shows is the trends of the use of Americanisms in British English. In other words, it shows us the frequency of American English words in written British English texts.
+
