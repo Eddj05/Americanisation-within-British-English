@@ -36,7 +36,13 @@ dren
 
 **Research question**
 
-Is there a relation between the growth of 'American English' and the frequency of the use of Americanised words in 'British English'?
+Is there a relation between the growth of American English and the frequency of the use of Americanised words in British English?
+
+**Variables**
+
+independent: the growth of American English.
+dependent: the frequency of the use of Americanised words in British English
+
 
 **Previous work**
 - Gonc ̧alves, B., L. Loureiro-Porto, J. J. Ramasco,
