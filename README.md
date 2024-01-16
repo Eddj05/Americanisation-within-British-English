@@ -58,3 +58,7 @@ munication amp; Translation Studies) 14, 131 – 138.
 glish in european education. Komunikacija i
 kultura ¡em¿online¡/em¿ 13(13), 195–205
 
+**Hypothesis**
+
+The more American English becomes important, the higher the frequency of Americanisms in British English written text.
+
